@@ -1,83 +1,83 @@
 const quizData = [
     {
-        question: '1. Kiek dienų turi rugsėjis?',
-        a: '29',
-        b: '31',
-        c: '30',
-        d: '28',
+        question: '1. Gyvis, kuriam visi ploja?',
+        a: 'Šuo',
+        b: 'Bebras',
+        c: 'Uodas',
+        d: 'Žuvis',
         correct: 'c'
     },
     {
-        question: '2. Vabalas šviečiantis tamsoje?',
+        question: '2. Kas su savim namą nešioja?',
         a: 'Musė',
-        b: 'Bitė',
-        c: 'Jonvabalis',
+        b: 'Sraigė',
+        c: 'Katė',
         d: 'Tarakonas',
+        correct: 'b'
+    },
+    {
+        question: '3. Koks gyvūnas gali miegoti 3 metus',
+        a: 'Meška',
+        b: 'Strutis',
+        c: 'Gyvatė',
+        d: 'Jautis',
         correct: 'c'
     },
     {
-        question: '3. Kas yra Lietuvos sostinė?',
-        a: 'Kaunas',
-        b: 'Vilnius',
-        c: 'Klaipėda',
-        d: 'Ignalina',
-        correct: 'b'
-    },
-    {
-        question: '4. Kiek valandų turi savaitė?',
-        a: '108',
-        b: '58',
-        c: '250',
-        d: '168',
+        question: '4. Kokio gyvūno liežuvis ilgesnis už jo kūną?',
+        a: 'Karvės',
+        b: 'Banginio',
+        c: 'Panteros',
+        d: 'Chameleono',
         correct: 'd'
     },
     {
-        question: '5. Koks yra lėlės Barbės vardas?',
-        a: 'Barbara Millicent Roberts',
-        b: 'Barbė Devindarbė',
-        c: 'Barbora Radvilaitė',
-        d: 'Barbara Straizen',
-        correct: 'a'
-    },
-    {
-        question: '6. Koks yra mažiausias paukštis pasaulyje?',
-        a: 'Varna',
-        b: 'Kolibris',
-        c: 'Žvirblis',
-        d: 'Sniegena',
-        correct: 'b'
-    },
-    {
-        question: '7. Kokia yra laumžirgio gyvenimo trukmė?',
-        a: '2 savaitės',
-        b: 'mėnesis',
-        c: 'metai',
-        d: 'para',
+        question: '5. Kiek žiedų turi aplankyti viena bitė kad pagamintų 1kg medaus?',
+        a: 'Šimtą',
+        b: 'Tūkstantį',
+        c: 'Milijoną',
+        d: 'Du milijonus',
         correct: 'd'
     },
     {
-        question: '8. Kiek raidžių Lietuvių kalbos abėcėlėje',
-        a: '32',
-        b: '24',
-        c: '34',
-        d: '28',
-        correct: 'a'
-    },
-    {
-        question: '9. Kiek širdžių turi aštuonkojis?',
-        a: '10',
-        b: '1',
-        c: '3',
-        d: '5',
+        question: '6. Koks žinduolis negali šokinėti?',
+        a: 'Bebras',
+        b: 'Arklys',
+        c: 'Dramblys',
+        d: 'Begemotas',
         correct: 'c'
     },
     {
-        question: '10. Jeigu bėgi trečias ir aplenki antrą tai kelintas tu bėgi?',
-        a: '1',
-        b: '2',
-        c: '3',
-        d: '4',
-        correct: 'b'
+        question: '7. Kiek žmonių yra kairiarankiai?',
+        a: '2 %',
+        b: '50%',
+        c: '11%',
+        d: '30%',
+        correct: 'c'
+    },
+    {
+        question: '8. Kokio gyvūno garsas neturi aido?',
+        a: 'Katės',
+        b: 'Žirafos',
+        c: 'Barsuko',
+        d: 'Žąsies',
+        correct: 'd'
+    },
+    {
+        question: '9. Koks bendras žmogaus kraujagyslių ilgis?',
+        a: '100000km',
+        b: '10m',
+        c: '100km',
+        d: '1000km',
+        correct: 'a'
+    },
+    {
+        question: '10. Kiek sveria bakterijos žmogaus kūne?',
+        a: '100g',
+        b: '300g',
+        c: '2kg',
+        d: '4kg',
+        correct: 'c'
     },
 ];
 
